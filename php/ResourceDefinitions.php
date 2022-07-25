@@ -19,7 +19,7 @@
 *
 * require_once 'Walletobjects.php'
 * contains the Google_service_.* definitions.
-* Is is the helper client library to implement REST definitions defined at:
+* It is the helper client library to implement REST definitions defined at:
 * https://developers.google.com/pay/passes/reference/v1/
 * Download newest at https://developers.google.com/pay/passes/support/libraries#libraries
 *
